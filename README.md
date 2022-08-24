@@ -1,1 +1,1 @@
-# 😃 Learn Laravel 9
+# 😃 Learn Laravel 9 🚀
